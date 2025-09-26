@@ -16,4 +16,4 @@ Project Contents:
 * `data.csv`: The input dataset (WDBC).
 * `roc_curve.png`: Generated image of the Receiver Operating Characteristic curve.
 
-You can view the generated plot here: **[View ROC Curve](roc_curve.png)**
+View the generated plot here: **[View ROC Curve](roc_curve.png)**
